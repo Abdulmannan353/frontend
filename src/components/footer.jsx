@@ -7,8 +7,8 @@ const footer = ()=> {
         <footer>
             <Container>
                 <Row>
-                    <Col md={12}>
-                        <span className="text-centre">
+                    <Col className="text-center">
+                        <span>
                             Copyright &copy; Abdul Mannan
 
                         </span>
